@@ -1,0 +1,1 @@
+@media(min-width:768px){.responsive-modal-container[style*=width]{max-width:100%!important;width:var(--custom-width,auto)!important}}@media(max-width:767px){.responsive-modal-container{width:100%!important;max-width:100%!important}}
